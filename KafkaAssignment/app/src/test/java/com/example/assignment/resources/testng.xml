@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="KafkaPipelineSuite">
+    <test name="ValidationTest">
+        <classes>
+            <class name="com.example.assignment.CustomerAccountValidationTest"/>
+        </classes>
+    </test>
+</suite>
+
+
+<!--&lt;!&ndash;        <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">&ndash;&gt;-->
+<!--&lt;!&ndash;<suite name="CustomerAccountValidationSuite">&ndash;&gt;-->
+<!--&lt;!&ndash;<test name="CustomerAccountValidationTest">&ndash;&gt;-->
+<!--&lt;!&ndash;    <classes>&ndash;&gt;-->
+<!--&lt;!&ndash;        <class name="com.example.assignment.CustomerAccountValidationTest"/>&ndash;&gt;-->
+<!--&lt;!&ndash;    </classes>&ndash;&gt;-->
+<!--&lt;!&ndash;</test>&ndash;&gt;-->
+<!--&lt;!&ndash;</suite>&ndash;&gt;-->
+
+<!--        <?xml version="1.0" encoding="UTF-8"?>-->
+<!--        <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">-->
+<!--<suite name="Spring Boot Test Suite">-->
+<!--<test name="CustomerAccountPipelineTest">-->
+<!--    <classes>-->
+<!--        <class name="com.example.assignment.CustomerAccountValidationTest"/>-->
+<!--    </classes>-->
+<!--</test>-->
+<!--</suite>-->

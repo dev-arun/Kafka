@@ -1,0 +1,10 @@
+{"name":"CUST-1","employeeId":"EMP-1","customerId":"CUST-8acb48bb-d713-4ff4-844c-64c562c1bded","accountId":"ACC-cc526996-4fca-4e36-b818-989b8b938d8b","dateOfBirth":"2004-10-21"}
+{"name":"CUST-2","employeeId":"EMP-2","customerId":"CUST-e6485171-2e0f-4876-a9cb-ee157de7feb7","accountId":"ACC-a5f029fc-610a-43bb-aa81-11c66370aa42","dateOfBirth":"2003-10-21"}
+{"name":"CUST-3","employeeId":"EMP-3","customerId":"CUST-65f8312c-a20e-4539-8825-c48d4113e2a2","accountId":"ACC-51500e85-212f-464a-928b-4d495eaf150a","dateOfBirth":"2002-10-21"}
+{"name":"CUST-4","employeeId":"EMP-4","customerId":"CUST-5512704c-dab8-4d6d-9f0d-858d897ea815","accountId":"ACC-47d73d64-b0d3-4c71-9d68-f6c96f901b6f","dateOfBirth":"2001-10-21"}
+{"name":"CUST-5","employeeId":"EMP-5","customerId":"CUST-825a9990-98f6-4a69-adce-afc87d7f08c1","accountId":"ACC-6e9338c1-b139-401b-a579-fc850cc8c51d","dateOfBirth":"2000-10-21"}
+{"employeeId":"EMP-1","name":"CUST-1","dateOfBirth":"2004-10-21","accountId":"ACC-fb6aa3fc-c614-4152-8781-f2b7630245ae","customerId":"CUST-646a580e-e115-4bd6-8a6b-4e4ee4e09b03"}
+{"employeeId":"EMP-2","name":"CUST-2","dateOfBirth":"2003-10-21","accountId":"ACC-2794891c-97a0-46a8-8c81-933a93474832","customerId":"CUST-509fcc4c-af09-468d-b20c-5171e87f1e9e"}
+{"employeeId":"EMP-3","name":"CUST-3","dateOfBirth":"2002-10-21","accountId":"ACC-1f47e05b-2808-4d15-a219-571cad990c37","customerId":"CUST-7530c1ce-59e6-4e74-af5d-999cf33797e6"}
+{"employeeId":"EMP-4","name":"CUST-4","dateOfBirth":"2001-10-21","accountId":"ACC-b266707d-ac79-477d-b6bd-20ccab42c635","customerId":"CUST-99f311f2-e3f5-47a9-bf61-eff50551afaf"}
+{"employeeId":"EMP-5","name":"CUST-5","dateOfBirth":"2000-10-21","accountId":"ACC-e6838acf-2f31-45ea-9c8d-3bce55e8fa1d","customerId":"CUST-c734a682-3faf-4fbb-a13f-2c8f872f2538"}
